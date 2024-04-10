@@ -1,5 +1,4 @@
 
-![Demo App](https://i.ibb.co/gFSMzKN/1.png)
 
 Some Features:
 
